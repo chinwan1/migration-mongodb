@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "5faa55d42229a70011689b4a",
+    "locations": [
+        "5faa55ff2229a70011689b4b",
+        "5faa55ff2229a70011689b4d",
+        "5faa55ff2229a70011689b4f",
+        "5faa55ff2229a70011689b51",
+        "5faa55ff2229a70011689b53",
+        "5faa55ff2229a70011689b55",
+        "5faa55ff2229a70011689b57"
+    ],
+    "locationIn": "37.42200N, -122.08400E",
+    "imageIn": "some image",
+    "tripType": "mileage",
+    "startingMileage": null,
+    "job": "5fa80aa739e45f001144a585",
+    "dateTimeIn": "2020-11-10T08:56:52.060Z",
+    "createdAt": "2020-11-10T08:56:52.061Z",
+    "updatedAt": "2020-11-10T08:57:39.934Z",
+    "dateTimeOut": "2020-11-10T08:57:39.933Z",
+    "imageOut": "some image",
+    "locationOut": "37.42200N -122.08400E"
+}
+]
