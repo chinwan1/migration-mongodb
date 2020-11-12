@@ -13,7 +13,7 @@ module.exports = {
         conn = db;
         return { hasError: false,};
       }).catch((err) => {
-        return { hasError: true, meesage: err.meesage};
+        return { hasError: true, message :'error connect de' };
       })
    },
    getDb: () => {

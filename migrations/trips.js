@@ -13,9 +13,9 @@ module.exports = {
         _id: ObjectId(trip._id),
         locations,
         dateTimeIn: new Date(trip.dateTimeIn),
-        createdAt: new Date(project.createdAt),
-        updatedAt: new Date(project.updatedAt),
-        dateTimeOut: new Date(project.dateTimeOut),
+        createdAt: new Date(trip.createdAt),
+        updatedAt: new Date(trip.updatedAt),
+        dateTimeOut: new Date(trip.dateTimeOut),
       })
      }))
   },
