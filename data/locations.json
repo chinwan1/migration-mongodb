@@ -2,42 +2,60 @@
     {
         "_id": "5faa38e12229a70011689b3f",
         "trip": "5faa38c92229a70011689b3d",
-        "location": "37.42200N, -122.08400E",
+        "coordinate": {
+          "latitude": 37.42200,
+          "longitude": -120.08400
+        },
         "createdAt": "2020-11-10T06:53:21.031Z",
         "updatedAt": "2020-11-10T06:53:21.031Z"
     },
     {
         "_id": "5faa38e12229a70011689b41",
         "trip": "5faa38c92229a70011689b3d",
-        "location": "37.42200N, -122.08400E",
+        "coordinate": {
+          "latitude": 37.42200,
+          "longitude": -101.08400
+        },
         "createdAt": "2020-11-10T06:53:21.060Z",
         "updatedAt": "2020-11-10T06:53:21.060Z"
     },
     {
         "_id": "5faa38e12229a70011689b43",
         "trip": "5faa38c92229a70011689b3d",
-        "location": "37.42200N, -122.08400E",
+        "coordinate": {
+          "latitude": 37.42200,
+          "longitude": -121.08400
+        },
         "createdAt": "2020-11-10T06:53:21.071Z",
         "updatedAt": "2020-11-10T06:53:21.071Z"
     },
     {
         "_id": "5faa55ff2229a70011689b4b",
         "trip": "5faa55d42229a70011689b4a",
-        "location": "37.42200N, -122.08400E",
+        "coordinate": {
+          "latitude": 37.42200,
+          "longitude": -40.08400
+        },
         "createdAt": "2020-11-10T08:57:35.287Z",
         "updatedAt": "2020-11-10T08:57:35.287Z"
     },
     {
         "_id": "5faa55ff2229a70011689b4d",
         "trip": "5faa55d42229a70011689b4a",
-        "location": "37.42200N, -122.08400E",
+        "coordinate": {
+          "latitude": 37.42200,
+          "longitude": -2.08400
+        },"location": "37.42200N, -122.08400E",
         "createdAt": "2020-11-10T08:57:35.293Z",
         "updatedAt": "2020-11-10T08:57:35.293Z"
     },
     {
         "_id": "5faa55ff2229a70011689b4f",
         "trip": "5faa55d42229a70011689b4a",
-        "location": "37.42200N, -122.08400E",
+        "coordinate": {
+          "latitude": 37.42200,
+          "longitude": -122.08400
+        },
         "createdAt": "2020-11-10T08:57:35.299Z",
         "updatedAt": "2020-11-10T08:57:35.299Z"
     },
@@ -45,27 +63,40 @@
         "_id": "5faa55ff2229a70011689b51",
         "trip": "5faa55d42229a70011689b4a",
         "location": "37.42200N, -122.08400E",
+        "coordinate": {
+          "latitude": 37.42200,
+          "longitude": -122.08400
+        },
         "createdAt": "2020-11-10T08:57:35.304Z",
         "updatedAt": "2020-11-10T08:57:35.304Z"
     },
     {
         "_id": "5faa55ff2229a70011689b53",
         "trip": "5faa55d42229a70011689b4a",
-        "location": "37.42200N, -122.08400E",
+        "coordinate": {
+          "latitude": 37.42200,
+          "longitude": -122.08400
+        },
         "createdAt": "2020-11-10T08:57:35.308Z",
         "updatedAt": "2020-11-10T08:57:35.308Z"
     },
     {
         "_id": "5faa55ff2229a70011689b55",
         "trip": "5faa55d42229a70011689b4a",
-        "location": "37.42200N, -122.08400E",
+        "coordinate": {
+          "latitude": 37.42200,
+          "longitude": -122.08400
+        },
         "createdAt": "2020-11-10T08:57:35.314Z",
         "updatedAt": "2020-11-10T08:57:35.314Z"
     },
     {
         "_id": "5faa55ff2229a70011689b57",
         "trip": "5faa55d42229a70011689b4a",
-        "location": "37.42200N, -122.08400E",
+        "coordinate": {
+          "latitude": 37.42200,
+          "longitude": -122.08400
+        },
         "createdAt": "2020-11-10T08:57:35.329Z",
         "updatedAt": "2020-11-10T08:57:35.329Z"
     }

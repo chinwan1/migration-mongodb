@@ -3,7 +3,10 @@ const collection = 'jobs'
 const ObjectId = require('mongodb').ObjectID
 module.exports = {
   async up(db, client) {
-   Promise.all(jobs.map(async (job) => {
+    Promise.all(jobs.map(async (job) => {
+    const tripRecords = job.tripRecords.map((item) => {
+      return ObjectId(item);
+    })
      await db.collection(collection).insert({
        ...job,
        _id: ObjectId(job._id),

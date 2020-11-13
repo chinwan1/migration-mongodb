@@ -6,7 +6,7 @@ module.exports = {
   async up(db, client) {
     Promise.all(locations.map(async (location) => {
       await db.collection(collection).insert({
-        ...trip,
+        ...location,
         _id: ObjectId(location._id),
         trip: ObjectId(location.trip),
         createdAt: Date(location.createdAt),
