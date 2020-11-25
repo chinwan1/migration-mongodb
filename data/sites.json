@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "5f98751a2f92cc00116efc41",
+    "jobs": [
+      "5f9ab07a836fd00011136265"
+    ],
+    "name": "True Tower-1",
+    "siteId": "BKA7412",
+    "detail": "True Tower BKA7412",
+    "range": "S"
+  },
+  {
+    "_id": "5f98751a2f92cc00116efc42",
+    "jobs": [
+      "5f9ab07a836fd00011136266"
+    ],
+    "name": "True Tower-2",
+    "siteId": "BKA7413",
+    "detail": "True Tower BKA7412",
+    "range": "S"
+  }
+]

@@ -1,14 +1,14 @@
 [
     { 
-        "_id": "5f9ab07a836fd00011136263",
+        "_id": "5f9ab07a836fd00011136265",
         "owners": [
-            "5f95a95e14d3350011c46e26"
+            "5fbb7fb970354c0011b46f2a"
         ],
         "clockRecords": [],
-        "tripRecords": ["5faa55d42229a70011689b4a"],
+        "tripRecords": [],
         "progress": 83,
         "site": "5f98751a2f92cc00116efc41",
-        "task": "5f98e0dd894eed00114dca1d",
+        "task": "5fb367087ce82d001152cc83",
         "startDate": "2020-10-29T12:05:00.909Z",
         "targetDate": "2020-10-31T12:05:00.909Z",
         "status": "open",
@@ -18,15 +18,15 @@
         "updatedAt": "2020-10-29"
     },
     { 
-        "_id": "5f9ab07a836fd00011136264",
+        "_id": "5f9ab07a836fd00011136266",
         "owners": [
-            "5f95a95e14d3350011c46e26"
+            "5fbb7fb970354c0011b46f2a"
         ],
         "clockRecords": [],
         "tripRecords": [],
-        "progress": 60,
+        "progress": 83,
         "site": "5f98751a2f92cc00116efc41",
-        "task": "5f98e0dd894eed00114dca1d",
+        "task": "5fb367087ce82d001152cc83",
         "startDate": "2020-10-29T12:05:00.909Z",
         "targetDate": "2020-10-31T12:05:00.909Z",
         "status": "open",
@@ -34,34 +34,5 @@
         "jobId": "DT200009999",
         "createdAt": "2020-10-29",
         "updatedAt": "2020-10-29"
-    },
-    {
-      "owners": [
-          "5fa26f1a2cfc470011ed7052"
-      ],
-      "clockRecords": [
-          "5fa27b16e8d8500011d816ca",
-          "5fa27b57e8d8500011d816cc",
-          "5fa27b79e8d8500011d816cd",
-          "5fa281fae8d8500011d81744",
-          "5fa2c0f9e8d8500011d817df",
-          "5fa2c545e8d8500011d817e0",
-          "5fa2c90fe8d8500011d817e1"
-      ],
-      "tripRecords": [
-          "5fa2d4b3eb47080011e66d69",
-          "5fa2d521eb47080011e66d70",
-          "5fa2d5e3eb47080011e66d9f"
-      ],
-      "progress": 70,
-      "site": "5fa26c632cfc470011ed704f",
-      "task": "5fa269042cfc470011ed704e",
-      "startDate": "2020-11-04T09:07:51.962Z",
-      "targetDate": "2020-11-05T09:07:51.962Z",
-      "status": "in progress",
-      "project": "5fa26cd82cfc470011ed7050",
-      "jobId": "DT20001taff",
-      "createdAt": "2020-11-04",
-      "updatedAt": "2020-11-04"
-  }
+    }
 ]

@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "5fbb7fb970354c0011b46f2c",
+    "bgProfile": "#e5e5e5",
+    "status": "available",
+    "jobs": [],
+    "userId": "admin",
+    "password": "$2a$10$771JOQ3S5ZhUxjNc1iovR.4icHmy.AiIO2YVgKLMBySJ35qke6QH2",
+    "firstName": "Addy",
+    "lastName": "Minnie",
+    "salary": 1,
+    "role": "admin",
+    "email": "Minnie@admin.com",
+    "phone": "0955345341",
+    "runningNumber": "000",
+    "acronym": "ch"
+  },
+  {
+    "_id": "5fbb7fb970354c0011b46f2a",
+    "bgProfile": "#e5e5e5",
+    "status": "available",
+    "jobs": [],
+    "userId": "pm-1",
+    "password": "$2a$10$771JOQ3S5ZhUxjNc1iovR.4icHmy.AiIO2YVgKLMBySJ35qke6QH2",
+    "firstName": "Addy",
+    "lastName": "Minnie",
+    "salary": 1,
+    "role": "pm",
+    "email": "pm1@admin.com",
+    "phone": "0955345341",
+    "runningNumber": "000",
+    "acronym": "pm"
+}
+]

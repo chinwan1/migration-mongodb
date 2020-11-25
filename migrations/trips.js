@@ -11,6 +11,7 @@ module.exports = {
       await db.collection(collection).insert({
         ...trip,
         _id: ObjectId(trip._id),
+        job: ObjectId(trip.job),
         locations,
         dateTimeIn: new Date(trip.dateTimeIn),
         createdAt: new Date(trip.createdAt),

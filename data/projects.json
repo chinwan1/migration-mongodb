@@ -2,40 +2,16 @@
   {
     "_id": "5fa26cd82cfc470011ed7050",
     "managers": [
-        "5f98e071894eed00114dca1b"
+        "5fbb7fb970354c0011b46f2c"
     ],
-    "jobs":[],
-    "name": "พญาไทโปรเจค",
-    "projectId": "พญาไท",
+    "jobs":[
+        "5f9ab07a836fd00011136265",
+        "5f9ab07a836fd00011136266"
+    ],
+    "name": "Test-1",
+    "projectId": "Test",
     "status": "open",
     "createdAt": "2020-11-04",
     "updatedAt": "2020-11-04"
-},
-{
-    "_id": "5f9a7d6f676bb60011e89276",
-    "jobs": [
-        "5f9ab07a836fd00011136263", "5f9ab07a836fd00011136264"
-    ],
-    "managers": [
-        "5f98e071894eed00114dca1b"
-    ],
-    "name": "CAT",
-    "projectId": "PRO001",
-    "status": "open",
-    "createdAt": "2020-11-04",
-    "updatedAt": "2020-10-29"
-},
-{
-    "_id": "5f9a7d6f676bb60011e89277",
-    "jobs": [
-    ],
-    "managers": [
-        "5f98e071894eed00114dca1b"
-    ],
-    "name": "CAT",
-    "projectId": "PRO001",
-    "status": "open",
-    "createdAt": "2021-11-04",
-    "updatedAt": "2020-10-29"
-}
+    }
 ]
